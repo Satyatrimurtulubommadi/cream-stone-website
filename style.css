@@ -1,0 +1,103 @@
+.incre-hei{
+    width: 350px;
+    height: auto;
+   
+}
+.incre-hei:hover{
+    width: 450px;
+    box-shadow: 10px 10px 10px rgb(113, 155, 39);
+}
+.diffent-colors{
+    background-image: linear-gradient(green,orange);
+}
+.diffent-colors1{
+    background-image: radial-gradient(yellow,rgb(0, 255, 94));
+    border-bottom-right-radius: 90px;
+    border-bottom-left-radius: 90px;
+}
+.curve{
+    border-radius: 30px;
+    background-image: linear-gradient(rgb(45, 89, 45),rgb(203, 165, 94));
+}
+.diffcolour{
+    background-image: radial-gradient(rgb(229, 229, 152),rgb(99, 169, 125));
+    border-radius: 40px;
+}
+.diffcolour2{
+    background-image: radial-gradient(rgb(152, 152, 229),rgb(169, 133, 99));
+    border-radius: 40px;
+}
+.diffcolour3{
+    background-image: radial-gradient(rgb(15, 85, 226),rgb(236, 130, 8));
+    border-radius: 40px;
+}
+.follow-us-icon {
+   
+    width: 100px;
+    height: 50px;
+    
+   
+  }
+.curve1{
+    background-color:rgb(203, 165, 94);
+}
+.curve2{
+    background-color:rgb(219, 186, 125);
+}
+.curve3{
+    background-color:rgb(168, 134, 66);
+    height: 500px;
+}
+.curve4{
+    background-color:rgb(141, 117, 73);
+    height: 500px;
+}
+.curve5{
+    background-color:#663300;
+    
+}
+.curve6{
+    background-color:rgb(187, 162, 116);
+   
+    
+}
+.curve7{
+   
+    height: 500px;
+    
+}
+.bg{
+    background-image: url('wood2.jpeg');
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg1{
+    background-image: url('blue\ templete.jpg');
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg2{
+    background-image: url('get\ in\ touth.avif');
+    width: 100%;
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg3{
+    background-image: url('plene\ red\ colour.avif');
+    width: 100%;
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer{
+    background-color: rgb(61, 61, 174);
+}
+header{
+    background-color: rgb(65, 65, 51);
+}
+
